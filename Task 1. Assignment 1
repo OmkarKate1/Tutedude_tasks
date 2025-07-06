@@ -1,0 +1,10 @@
+n1= float(input("Enter the first number : "))
+n2= float(input("Enter the second number : "))
+ad=n1+n2
+sb=n1-n2
+ml=n1*n2
+dv=n1/n2
+print("Addition: ", ad)
+print("Subtraction: ", sb)
+print("Multiplication: ", ml)
+print("Division: ", dv)
