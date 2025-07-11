@@ -1,0 +1,8 @@
+n= int(input("Enter a number: "))
+import math
+sqrt = (math.sqrt(n))
+print("Square root: ", sqrt)
+log =math.log(n)
+print("Logarithm of square root: ", log)
+sine =math.sin(n)
+print("Sine of sin: ", sine)
